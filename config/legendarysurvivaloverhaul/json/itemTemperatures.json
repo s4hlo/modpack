@@ -1,0 +1,1010 @@
+{
+  "minecraft:iron_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:iron_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:sheep_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 3.5,
+    "thermal_resistance": 0.0
+  },
+  "call_of_yucutan:jades_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:soul_torch": {
+    "temperature": -1.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_black_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 1.0
+  },
+  "minecraft:netherite_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_green_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.0,
+    "thermal_resistance": 0.0
+  },
+  "legendarysurvivaloverhaul:snow_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 3.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_red_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_black_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.5
+  },
+  "iceandfire:deathworm_yellow_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "legendarysurvivaloverhaul:desert_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "call_of_yucutan:jades_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_green_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:deathworm_white_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:sheep_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_purple_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_green_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:dragonsteel_ice_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 2.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_electric_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.5
+  },
+  "iceandfire:dragonsteel_ice_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 4.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_blue_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_red_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_copper_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 1.0
+  },
+  "iceandfire:tide_blue_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_blue_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_deepblue_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_white_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_blue_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:deathworm_yellow_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:dragonsteel_ice_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 3.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:deathworm_red_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_bronze_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_gray_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "alexsmobs:sombrero": {
+    "temperature": 0.0,
+    "heat_resistance": 4.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_teal_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_silver_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_white_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:blue_ice": {
+    "temperature": -3.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "endermanoverhaul:savanna_hood": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_green_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:leather_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "legendarysurvivaloverhaul:desert_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 2.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_green_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "alexsmobs:unsettling_kimono": {
+    "temperature": 0.0,
+    "heat_resistance": 2.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_bronze_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "call_of_yucutan:jades_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_teal_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_silver_metal_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_copper_metal_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:ice": {
+    "temperature": -1.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_sapphire_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_silver_metal_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "legendarysurvivaloverhaul:snow_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:lava_bucket": {
+    "temperature": 6.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "artifacts:lucky_scarf": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_bronze_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_red_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_amythest_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.5
+  },
+  "iceandfire:armor_electric_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.5
+  },
+  "legendarysurvivaloverhaul:snow_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_black_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 1.0
+  },
+  "alexsmobs:centipede_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_red_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "alexsmobs:roadrunner_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:iron_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:dragonsteel_fire_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 4.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_gray_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "artifacts:scarf_of_invisibility": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.5,
+    "thermal_resistance": 0.0
+  },
+  "alexsmobs:froststalker_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 3.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:dragonsteel_fire_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 5.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_purple_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_silver_metal_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:dragonsteel_lightning_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 1.5
+  },
+  "iceandfire:armor_electric_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 1.0
+  },
+  "iceandfire:deathworm_white_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_red_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:deathworm_red_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_red_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_gray_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_white_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:netherite_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:golden_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_deepblue_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_copper_metal_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_blue_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 2.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_sapphire_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 2.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:dragonsteel_lightning_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 2.5
+  },
+  "iceandfire:armor_electric_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 1.0
+  },
+  "iceandfire:tide_blue_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.0,
+    "thermal_resistance": 0.0
+  },
+  "endermanoverhaul:snowy_hood": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.5,
+    "thermal_resistance": 0.0
+  },
+  "legendarysurvivaloverhaul:desert_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:dragonsteel_fire_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_silver_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 2.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:sheep_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_black_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.5
+  },
+  "iceandfire:tide_bronze_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:torch": {
+    "temperature": 1.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:dragonsteel_ice_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 5.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:diamond_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_blue_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_teal_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:leather_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_bronze_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_white_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 2.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:diamond_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_purple_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "alexsmobs:frontier_cap": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 4.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_deepblue_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "endermanoverhaul:badlands_hood": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.5,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:netherite_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_green_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "legendarysurvivaloverhaul:desert_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 3.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:magma_block": {
+    "temperature": 6.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "legendarysurvivaloverhaul:nether_chalice": {
+    "temperature": 2.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:leather_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_bronze_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:netherite_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_gray_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:golden_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_sapphire_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:deathworm_white_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_green_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:packed_ice": {
+    "temperature": -2.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_amythest_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.5
+  },
+  "alexsmobs:crocodile_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_silver_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:leather_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:deathworm_white_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:sheep_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 3.0,
+    "thermal_resistance": 0.0
+  },
+  "legendarycreatures:straw_hat": {
+    "temperature": 0.0,
+    "heat_resistance": 3.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:dragonsteel_fire_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 3.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:iron_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "legendarysurvivaloverhaul:snow_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 2.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_red_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:diamond_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:dread_torch": {
+    "temperature": -1.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:deathworm_yellow_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:deathworm_red_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_silver_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_deepblue_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:golden_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_silver_metal_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_copper_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.5
+  },
+  "iceandfire:armor_copper_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 1.0
+  },
+  "iceandfire:dragonsteel_lightning_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 2.0
+  },
+  "iceandfire:tide_green_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:deathworm_yellow_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "call_of_yucutan:jades_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:dragonsteel_lightning_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 1.5
+  },
+  "iceandfire:armor_blue_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_sapphire_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_bronze_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_amythest_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 1.0
+  },
+  "iceandfire:tide_bronze_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_red_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:diamond_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_copper_metal_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_copper_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.5
+  },
+  "artifacts:villager_hat": {
+    "temperature": 0.0,
+    "heat_resistance": 2.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_purple_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "minecraft:golden_chestplate": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:tide_teal_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 1.5,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_copper_metal_helmet": {
+    "temperature": 0.0,
+    "heat_resistance": 0.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:armor_amythest_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 0.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 1.0
+  },
+  "alexsmobs:emu_leggings": {
+    "temperature": 0.0,
+    "heat_resistance": 1.5,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  },
+  "iceandfire:deathworm_red_boots": {
+    "temperature": 0.0,
+    "heat_resistance": 1.0,
+    "cold_resistance": 0.0,
+    "thermal_resistance": 0.0
+  }
+}

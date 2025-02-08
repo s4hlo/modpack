@@ -1,0 +1,36 @@
+
+[death_messages]
+	#Show death message for all entities.
+	all_deaths = false
+	#The only entities to be included when "all_deaths" is enabled. Takes precedence over blacklist.
+	#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. May use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*_shulker_box" to match all shulker boxes no matter of color.
+	death_message_whitelist = []
+	#Show death message for named entities.
+	named_entity_deaths = true
+	#Show death message for players.
+	player_deaths = true
+	#Show death message for villagers.
+	villager_deaths = true
+	#Show death message for tamed entities.
+	pet_deaths = true
+	#Entities to be excluded when "all_deaths" is enabled.
+	#Format for every entry is "<namespace>:<path>". Tags are supported, must be in the format of "#<namespace>:<path>". Namespace may be omitted to use "minecraft" by default. May use asterisk as wildcard parameter via pattern matching, e.g. "minecraft:*_shulker_box" to match all shulker boxes no matter of color.
+	death_message_blacklist = ["minecraft:bat", "minecraft:glow_squid"]
+
+[death_message_components]
+	#Add position component to death messages.
+	position_component = true
+	#Who should be allowed to click the position component to teleport there.
+	#Normal player can only teleport to their own death position once in a given time frame, if enabled.
+	#Operators can teleport to any death position without limitations, if enabled.
+	#Allowed Values: NO_ONE, OPERATORS_ONLY, EVERYONE
+	allow_teleporting = "OPERATORS_ONLY"
+	#Add distance component to death messages.
+	distance_component = true
+	#Add dimension component to death messages.
+	dimension_component = true
+	#Amount of seconds in which teleporting to the last death point is possible.
+	#Set to -1 to remove time limit.
+	#Range: > -1
+	teleport_interval = 300
+

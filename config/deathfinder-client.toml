@@ -1,0 +1,5 @@
+#Show player coordinates on the death screen.
+death_screen_coordinates = true
+#Add information about the last death position to the recovery compass tooltip.
+recovery_compass_tooltip = true
+
