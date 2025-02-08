@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:[]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","fabric","file/FrostbiteBrimstone.zip","file/BetterVillages_MoreVillagers_1.19.4.zip","file/CreeperOverhaulOverhaul_1.18.1-1.0.zip","file/Detailed dragon Armors.zip","file/FreshAnimations_v1.9.2.zip","file/freshly-modded-1-5-10.zip"]
+incompatibleResourcePacks:["file/FrostbiteBrimstone.zip","file/BetterVillages_MoreVillagers_1.19.4.zip","file/CreeperOverhaulOverhaul_1.18.1-1.0.zip","file/Detailed dragon Armors.zip","file/freshly-modded-1-5-10.zip"]
 lastServer:
 lang:en_us
 soundDevice:""

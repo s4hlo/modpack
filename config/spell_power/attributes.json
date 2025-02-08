@@ -9,6 +9,10 @@
     "bonus_per_stack": 0.1
   },
   "secondary_effects": {
+    "haste": {
+      "uuid": "092f4f58-3ce5-11ed-b878-0242ac120002",
+      "bonus_per_stack": 0.05
+    },
     "critical_chance": {
       "uuid": "0e0ddd12-0646-42b7-8daf-36b4ccf524df",
       "bonus_per_stack": 0.05
@@ -16,10 +20,6 @@
     "critical_damage": {
       "uuid": "0612ed2a-3ce5-11ed-b878-0242ac120002",
       "bonus_per_stack": 0.1
-    },
-    "haste": {
-      "uuid": "092f4f58-3ce5-11ed-b878-0242ac120002",
-      "bonus_per_stack": 0.05
     }
   },
   "resistance_reduction_cap": 0.75

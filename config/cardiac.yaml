@@ -15,4 +15,30 @@ orbFollowDistance: 8
 # Time in seconds before the removal of the life orb
 orbLifetime: 60
 # Should life orbs drop when a mob is killed only by a player, or should whenever it dies
-shouldBeKilledByPlayer: true
+shouldBeKilledByPlayer:
+    seal:
+        # Highest level to which the ability can be upgraded
+        maxLevel: 10
+        # Relic level at which the ability becomes unlocked
+        requiredLevel: 0
+        # Number of leveling points needed to increase the ability level
+        requiredPoints: 1
+        stats:
+            time:
+                # Maximum base value of the stat. A random value within this range is assigned when the relic is first created
+                maxInitialValue: 4.0
+                # Maximum threshold value for the stat, representing hard limits that cannot be surpassed through ability level upgrades or other methods
+                maxThresholdValue: 1.7976931348623157E308
+                # Minimum base value of the stat. A random value within this range is assigned when the relic is first created
+                minInitialValue: 2.0
+                # Minimum threshold value for the stat, representing hard limits that cannot be surpassed through ability level upgrades or other methods
+                minThresholdValue: 4.9E-324
+                # Modifier applied to the base value of the stat, depending on the [upgradeOperation] parameter.
+                upgradeModifier: 0.25
+                # Type of mathematical operation used to calculate the stat's value based on the ability level. Supported operations include:
+                # MULTIPLY_BASE: x + ((x * y) * z),
+                # MULTIPLY_TOTAL: x * (y + 1)^z,
+                # ADD: x + (y * z).
+                # 
+                # ...where x - Base stat value, y - Value of [upgradeModifier], z - Current relic level
+                upgradeOperation: MULTIPLY_BASE

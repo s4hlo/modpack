@@ -56,12 +56,6 @@
     "show_tree_block_counts": true,
     "show_num_chops_remaining": true
   },
-  "projecte": {
-    "emc_provider": true
-  },
-  "projectexpansion": {
-    "provider": true
-  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
