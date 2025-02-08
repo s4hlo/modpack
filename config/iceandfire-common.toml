@@ -139,10 +139,10 @@
 	[Mobs.Cyclops]
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Spawn Cyclops Cave Chance" = 1
+		"Spawn Cyclops Cave Chance" = 10000
 		#1 out of this number chance per chunk for generation
 		#Range: 1 ~ 10000
-		"Spawn Wandering Cyclops Chance" = 1
+		"Spawn Wandering Cyclops Chance" = 10000
 		#Maximum cyclops health
 		#Range: 1.0 ~ 10000.0
 		"Cyclops Max Health" = 150.0
