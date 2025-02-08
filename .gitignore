@@ -1,0 +1,7 @@
+*
+!config/
+!defaultconfigs/
+!mods/
+!resourcepacks/
+!shaderpacks/
+!.gitignore
