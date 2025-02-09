@@ -16,6 +16,7 @@
 !config/iceandfire-common.toml
 !config/tameable-beasts-common.toml
 !config/tarotcards-common.toml
+!config/aether-common.toml
 !config/startkit.json5
 !config/starterkit/
 !config/starterkit/kits/
@@ -31,6 +32,7 @@ config/**/*
 !config/iceandfire-common.toml
 !config/tameable-beasts-common.toml
 !config/tarotcards-common.toml
+!config/aether-common.toml
 !config/startkit.json5
 !config/starterkit/
 !config/starterkit/kits/
