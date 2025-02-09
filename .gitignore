@@ -27,14 +27,12 @@ config/**/*
 !config/legendarysurvivaloverhaul/tameable-beasts-common.toml
 !config/legendarysurvivaloverhaul/tarotcards-common.toml
 
-# Mods - permitir apenas a pasta mods, mas ignorar tudo dentro dela
+# Mods - permitir a pasta e qualquer arquivo dentro dela, exceto .connector/
 !mods/
-mods/**/*
+!mods/**
+mods/.connector/
+mods/.connector/**
 
-# Resource Packs - permitir apenas a pasta resourcepacks, mas ignorar tudo dentro dela
+# Resource Packs - permitir a pasta e qualquer arquivo dentro dela
 !resourcepacks/
-resourcepacks/**/*
-
-# Citizens - permitir apenas a pasta citizens, mas ignorar tudo dentro dela
-!citizens/
-citizens/**/*
+!resourcepacks/**
