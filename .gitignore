@@ -12,20 +12,29 @@
 
 !config/legendarysurvivaloverhaul/
 !config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml
-!config/legendarysurvivaloverhaul/deathfinder-server.toml
-!config/legendarysurvivaloverhaul/iceandfire-common.toml
-!config/legendarysurvivaloverhaul/tameable-beasts-common.toml
-!config/legendarysurvivaloverhaul/tarotcards-common.toml
+!config/deathfinder-server.toml
+!config/iceandfire-common.toml
+!config/tameable-beasts-common.toml
+!config/tarotcards-common.toml
+!config/startkit.json5
+!config/starterkit/
+!config/starterkit/kits/
+!config/starterkit/kits/**
+
 
 # Ignorar qualquer outro arquivo dentro de config
 config/**/*
 !config/defaultoptions/keybindings.txt
 !config/defaultoptions/options.txt
 !config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml
-!config/legendarysurvivaloverhaul/deathfinder-server.toml
-!config/legendarysurvivaloverhaul/iceandfire-common.toml
-!config/legendarysurvivaloverhaul/tameable-beasts-common.toml
-!config/legendarysurvivaloverhaul/tarotcards-common.toml
+!config/deathfinder-server.toml
+!config/iceandfire-common.toml
+!config/tameable-beasts-common.toml
+!config/tarotcards-common.toml
+!config/startkit.json5
+!config/starterkit/
+!config/starterkit/kits/
+!config/starterkit/kits/**
 
 # Mods - permitir a pasta e qualquer arquivo dentro dela, exceto .connector/
 !mods/
