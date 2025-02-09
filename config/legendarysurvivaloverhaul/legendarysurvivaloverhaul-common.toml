@@ -23,7 +23,7 @@
 		"Compass Info Mode" = "FULL"
 		# If enabled, use on a filled map will show destination coordinates.
 		"Show Coordinate On Filled Map" = true
-		# If enabled, information like position and direction will be hidden from the debug screen (F3). no
+		# If enabled, information like position and direction will be hidden from the debug screen (F3).
 		"Hide Info From Debug" = false
 		# If enabled, the player can regenerate health naturally if their hunger is full enough (doesn't affect external healing, such as golden apples, the Regeneration effect, etc.)
 		"Natural Regeneration Enabled" = false
@@ -455,7 +455,7 @@
 	# The damage distribution can either be ONE_OF or ALL. ALL means the damage are equally divided across all body parts.
 	[health-overhaul.body-damage]
 		# Multiply the damage taken by the player when shot in the head without helmet.
-		#Range: 1.0 ~ 1000.0 no
+		#Range: 1.0 ~ 1000.0
 		"Headshot Multiplier" = 1.5
 		# How much of the hurt player's damage is assigned to the body parts.
 		#Range: 0.0 ~ 1000.0
