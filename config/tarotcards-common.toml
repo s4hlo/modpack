@@ -4,7 +4,7 @@
 	#Range: 0 ~ 1200
 	tick_rate = 20
 	#Requires the card to be in your curio slot, or in the tarot deck (also in the curio slot) to function
-	require_card_in_curio = false
+	require_card_in_curio = true
 	#If cards in the tarot deck apply their effects to the player holding it
 	tarot_deck_applies_effects = true
 

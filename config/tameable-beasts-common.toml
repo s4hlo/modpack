@@ -15,7 +15,7 @@
 	#Spawn QuetzalCoatulus
 	"QuetzalCoatuluss enabled:" = true
 	#Spawn Racoon
-	"Racoons enabled:" = true
+	"Racoons enabled:" = false
 	#Spawn Crested Gecko
 	"Crested Geckos enabled:" = true
 	#Spawn Argentavis

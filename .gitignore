@@ -1,14 +1,40 @@
-# *
+# Ignorar tudo por padrão
+*
 
-# # non default config files/folders
-# config/fabric/
-# !config/
-# !config/defaultoptions/
-# !config/defaultoptions/options.txt
-# !config/defaultoptions/keybindings.txt
+# Permitir apenas os arquivos e diretórios listados na imagem
+!.gitignore
 
-# !defaultconfigs/
-# !mods/
-# !resourcepacks/
-# !shaderpacks/
-# !.gitignore
+# Config - permitir apenas os arquivos específicos
+!config/
+!config/defaultoptions/
+!config/defaultoptions/keybindings.txt
+!config/defaultoptions/options.txt
+
+!config/legendarysurvivaloverhaul/
+!config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml
+!config/legendarysurvivaloverhaul/deathfinder-server.toml
+!config/legendarysurvivaloverhaul/iceandfire-common.toml
+!config/legendarysurvivaloverhaul/tameable-beasts-common.toml
+!config/legendarysurvivaloverhaul/tarotcards-common.toml
+
+# Ignorar qualquer outro arquivo dentro de config
+config/**/*
+!config/defaultoptions/keybindings.txt
+!config/defaultoptions/options.txt
+!config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml
+!config/legendarysurvivaloverhaul/deathfinder-server.toml
+!config/legendarysurvivaloverhaul/iceandfire-common.toml
+!config/legendarysurvivaloverhaul/tameable-beasts-common.toml
+!config/legendarysurvivaloverhaul/tarotcards-common.toml
+
+# Mods - permitir apenas a pasta mods, mas ignorar tudo dentro dela
+!mods/
+mods/**/*
+
+# Resource Packs - permitir apenas a pasta resourcepacks, mas ignorar tudo dentro dela
+!resourcepacks/
+resourcepacks/**/*
+
+# Citizens - permitir apenas a pasta citizens, mas ignorar tudo dentro dela
+!citizens/
+citizens/**/*
