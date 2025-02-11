@@ -5,7 +5,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:false
+enableVsync:true
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -31,20 +31,20 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:0.5
-renderDistance:12
+renderDistance:29
 simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:2
 particles:0
-maxFps:120
+maxFps:260
 graphicsMode:1
 ao:true
-prioritizeChunkUpdates:0
+prioritizeChunkUpdates:2
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","fabric","file/BetterVillages_MoreVillagers_1.19.4.zip","file/CreeperOverhaulOverhaul_1.18.1-1.0.zip","file/Detailed dragon Armors.zip","file/FreshAnimations_v1.9.2.zip","file/FrostbiteBrimstone.zip","file/freshly-modded-1-5-10.zip","file/Elenai_Dodge_Feathers_Legendarydashbar_1.1.zip"]
-incompatibleResourcePacks:["file/BetterVillages_MoreVillagers_1.19.4.zip","file/CreeperOverhaulOverhaul_1.18.1-1.0.zip","file/Detailed dragon Armors.zip","file/FrostbiteBrimstone.zip","file/freshly-modded-1-5-10.zip"]
-lastServer:sahlo-server.exaroton.me
+resourcePacks:["vanilla","mod_resources","fabric","file/BetterVillages_MoreVillagers_1.19.4.zip","file/Detailed dragon Armors.zip","file/CreeperOverhaulOverhaul_1.18.1-1.0.zip","file/FreshAnimations_v1.9.2.zip","file/freshly-modded-1-5-10.zip","file/FrostbiteBrimstone.zip","file/Elenai_Dodge_Feathers_Legendarydashbar_1.1.zip"]
+incompatibleResourcePacks:["file/BetterVillages_MoreVillagers_1.19.4.zip","file/Detailed dragon Armors.zip","file/CreeperOverhaulOverhaul_1.18.1-1.0.zip","file/freshly-modded-1-5-10.zip","file/FrostbiteBrimstone.zip"]
+lastServer:
 lang:en_us
 soundDevice:""
 chatVisibility:0
@@ -53,7 +53,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -75,7 +75,7 @@ glDebugVerbosity:1
 skipMultiplayerWarning:false
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:true
+joinedFirstServer:false
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -84,7 +84,7 @@ onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
-soundCategory_master:0.061258278145695365
+soundCategory_master:0.1771523178807947
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
@@ -101,3 +101,4 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
+fullscreenResolution:1920x1080@60:24
