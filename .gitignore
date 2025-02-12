@@ -18,6 +18,8 @@
 !config/tarotcards-common.toml
 !config/aether-common.toml
 !config/betterf3.toml
+!config/irons_spellbooks-client.toml
+!config/structurify.json
 !config/majruszsdifficulty.json
 !config/Feathers-Client.toml
 !config/Feathers-Common.toml
@@ -40,6 +42,8 @@ config/**/*
 !config/tarotcards-common.toml
 !config/aether-common.toml
 !config/betterf3.toml
+!config/irons_spellbooks-client.toml
+!config/structurify.json
 !config/majruszsdifficulty.json
 !config/Feathers-Client.toml
 !config/Feathers-Common.toml
