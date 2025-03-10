@@ -15,6 +15,70 @@
 	always_show_tps = false
 
 [[modules_left]]
+	name = "empty"
+	empty_lines = 1
+	enabled = true
+
+	[modules_left.lines]
+		nothing = true
+
+[[modules_left]]
+	name = "empty"
+	empty_lines = 1
+	enabled = true
+
+	[modules_left.lines]
+		nothing = true
+
+[[modules_left]]
+	name = "empty"
+	empty_lines = 1
+	enabled = true
+
+	[modules_left.lines]
+		nothing = true
+
+[[modules_left]]
+	name = "empty"
+	empty_lines = 1
+	enabled = true
+
+	[modules_left.lines]
+		nothing = true
+
+[[modules_left]]
+	name = "empty"
+	empty_lines = 1
+	enabled = true
+
+	[modules_left.lines]
+		nothing = true
+
+[[modules_left]]
+	name = "empty"
+	empty_lines = 1
+	enabled = true
+
+	[modules_left.lines]
+		nothing = true
+
+[[modules_left]]
+	name = "empty"
+	empty_lines = 1
+	enabled = true
+
+	[modules_left.lines]
+		nothing = true
+
+[[modules_left]]
+	name = "empty"
+	empty_lines = 1
+	enabled = true
+
+	[modules_left.lines]
+		nothing = true
+
+[[modules_left]]
 	name = "fps"
 	color_high = 5635925
 	color_med = 16777045
@@ -23,20 +87,6 @@
 
 	[modules_left.lines]
 		fps = true
-
-[[modules_left]]
-	name = "coords"
-	name_color = 16733525
-	color_x = 16733525
-	color_y = 5635925
-	color_z = 5636095
-	enabled = true
-
-	[modules_left.lines]
-		player_coords = false
-		block_coords = true
-		chunk_relative_coords = false
-		chunk_coords = false
 
 [[modules_left]]
 	name = "location"
@@ -57,6 +107,20 @@
 		day_ticks = false
 		days_played = false
 		slime_chunk = false
+
+[[modules_left]]
+	name = "coords"
+	name_color = 16733525
+	color_x = 16733525
+	color_y = 5635925
+	color_z = 5636095
+	enabled = true
+
+	[modules_left.lines]
+		player_coords = false
+		block_coords = true
+		chunk_relative_coords = false
+		chunk_coords = false
 
 [[modules_right]]
 	name = "empty"
