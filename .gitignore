@@ -1,39 +1,19 @@
-# Ignorar tudo por padrão
+# Ignorar tudo
 *
 
-# Permitir apenas os arquivos e diretórios listados na imagem
+# Permitir o .gitignore
 !.gitignore
 
-# Config - permitir apenas os arquivos específicos
+# Permitir pasta config e arquivos específicos
 !config/
-!config/defaultoptions/
-!config/defaultoptions/keybindings.txt
-!config/defaultoptions/options.txt
-
-!config/deathfinder-server.toml
-!config/iceandfire-common.toml
-!config/tameable-beasts-common.toml
-!config/tarotcards-common.toml
-!config/aether-common.toml
-!config/betterf3.toml
-!config/irons_spellbooks-client.toml
-!config/structurify.json
-!config/majruszsdifficulty.json
-!config/Feathers-Client.toml
-!config/Feathers-Common.toml
-!config/Elenai-Dodge-2-Client.toml
-!config/Elenai-Dodge-2-Common.toml
-
-
-# Ignorar qualquer outro arquivo dentro de config
 config/**/*
+!config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml
 !config/defaultoptions/keybindings.txt
 !config/defaultoptions/options.txt
 !config/deathfinder-server.toml
-!config/iceandfire-common.toml
-!config/tameable-beasts-common.toml
 !config/tarotcards-common.toml
 !config/aether-common.toml
+!config/README.md
 !config/betterf3.toml
 !config/irons_spellbooks-client.toml
 !config/structurify.json
@@ -43,12 +23,12 @@ config/**/*
 !config/Elenai-Dodge-2-Client.toml
 !config/Elenai-Dodge-2-Common.toml
 
-# Mods - permitir a pasta e qualquer arquivo dentro dela, exceto .connector/
+# Permitir pasta mods, mas ignorar .connector
 !mods/
 !mods/**
 mods/.connector/
 mods/.connector/**
 
-# Resource Packs - permitir a pasta e qualquer arquivo dentro dela
+# Permitir resourcepacks
 !resourcepacks/
 !resourcepacks/**
