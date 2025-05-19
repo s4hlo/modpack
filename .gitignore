@@ -10,8 +10,6 @@
 !config/defaultoptions/keybindings.txt
 !config/defaultoptions/options.txt
 
-!config/legendarysurvivaloverhaul/
-!config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml
 !config/deathfinder-server.toml
 !config/iceandfire-common.toml
 !config/tameable-beasts-common.toml
@@ -25,17 +23,12 @@
 !config/Feathers-Common.toml
 !config/Elenai-Dodge-2-Client.toml
 !config/Elenai-Dodge-2-Common.toml
-!config/starterkit.json5
-!config/starterkit/
-!config/starterkit/kits/
-!config/starterkit/kits/**
 
 
 # Ignorar qualquer outro arquivo dentro de config
 config/**/*
 !config/defaultoptions/keybindings.txt
 !config/defaultoptions/options.txt
-!config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml
 !config/deathfinder-server.toml
 !config/iceandfire-common.toml
 !config/tameable-beasts-common.toml
@@ -49,10 +42,6 @@ config/**/*
 !config/Feathers-Common.toml
 !config/Elenai-Dodge-2-Client.toml
 !config/Elenai-Dodge-2-Common.toml
-!config/starterkit.json5
-!config/starterkit/
-!config/starterkit/kits/
-!config/starterkit/kits/**
 
 # Mods - permitir a pasta e qualquer arquivo dentro dela, exceto .connector/
 !mods/
