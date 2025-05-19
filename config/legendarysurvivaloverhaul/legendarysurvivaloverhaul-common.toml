@@ -343,19 +343,19 @@
 	[thirst.exhaustion]
 		# Thirst exhausted every 10 ticks.
 		#Range: 0.0 ~ 1000.0
-		"Base Thirst Exhaustion" = 0.03
+		"Base Thirst Exhaustion" = 0.02
 		# Thirst exhausted when sprinting, replacing the base thirst exhausted.
 		#Range: 0.0 ~ 1000.0
-		"Sprinting Thirst Exhaustion" = 0.1
+		"Sprinting Thirst Exhaustion" = 0.05
 		# Thirst exhausted on every jump.
 		#Range: 0.0 ~ 1000.0
-		"On Jump Thirst Exhaustion" = 0.15
+		"On Jump Thirst Exhaustion" = 0.1
 		# Thirst exhausted on every block break.
 		#Range: 0.0 ~ 1000.0
-		"On Block Break Thirst Exhaustion" = 0.07
+		"On Block Break Thirst Exhaustion" = 0.03
 		# Thirst exhausted on every attack.
 		#Range: 0.0 ~ 1000.0
-		"On Attack Thirst Exhaustion" = 0.3
+		"On Attack Thirst Exhaustion" = 0.2
 
 	[thirst.canteen]
 		# If enabled, the player can water himself by using the canteen while crouching.
