@@ -4,10 +4,11 @@
 # Permitir o .gitignore
 !.gitignore
 
-# Permitir pasta config e arquivos específicos
+# Permitir apenas os arquivos e pastas específicos da config
 !config/
-config/**/*
+!config/legendarysurvivaloverhaul/
 !config/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml
+!config/defaultoptions/
 !config/defaultoptions/keybindings.txt
 !config/defaultoptions/options.txt
 !config/deathfinder-server.toml
